@@ -1,0 +1,8 @@
+com\bhaiti\kela\controllers\WorkUpdateController.class
+com\bhaiti\kela\controllers\WorkRegistrationController.class
+com\bhaiti\kela\beans\work.class
+com\bhaiti\kela\sever\main\WorkshopApplication.class
+com\bhaiti\kela\beans\registrationreply.class
+com\bhaiti\kela\controllers\workretrievecontroller.class
+com\bhaiti\kela\beans\registration.class
+com\bhaiti\kela\controllers\WorkDeleteController.class
